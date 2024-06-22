@@ -1,5 +1,5 @@
 # value-object
-NodeJS value-object abstract class
+Typescript value-object abstract class
 
 Require `lodash.isequal` dependencies:
 
